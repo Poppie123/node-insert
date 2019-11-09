@@ -1,0 +1,23 @@
+{
+  "name": "insect",
+  "version": "1.0.0",
+  "description": "网络爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/wulianglaoge/node-insect.git"
+  },
+  "keywords": [
+    "爬虫，node，前端，"
+  ],
+  "author": "wuliang",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "html-entities": "^1.2.1",
+    "request": "^2.88.0"
+  }
+}
